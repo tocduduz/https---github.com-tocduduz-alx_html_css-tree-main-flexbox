@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    width: auto;
+    flex: 2;
+}
